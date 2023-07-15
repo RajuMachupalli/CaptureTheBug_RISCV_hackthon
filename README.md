@@ -1,2 +1,20 @@
 # CaptureTheBug_RISCV_hackthon
-This repo contains the materials gathered as Hackathon progress. 
+This repo contains the materials gathered as the Hackathon progress. 
+
+**July 15th to 19th**: Explore the open-source RISV-V cores, and study the common hardware bugs. write a report in IEEE format. 
+
+
+
+
+
+
+# Links shared in Slack
+
+## RISC-V cores
+1. https://github.com/suryakantamangaraj/AwesomeRISC-VResources#cores
+
+
+
+
+# RISC-V common hardware bugs
+
