@@ -13,7 +13,7 @@ This repo contains the materials gathered as the Hackathon progress.
 ## RISC-V cores
 1. https://github.com/suryakantamangaraj/AwesomeRISC-VResources#cores
 2. https://riscv.org/exchange/
-3. 
+3. https://github.com/Ammarkhan561/RISCV-32I-Single-Cycle-Processor
 
 
 
