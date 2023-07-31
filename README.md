@@ -9,7 +9,15 @@ This repo contains the materials gathered as the Hackathon progress.
 ### Challenge 1
 1. https://www.youtube.com/watch?v=mbyb7BgYyXg
 2. https://github.com/riscv-software-src/riscv-tests
-3. 
+
+
+**Error**:
+
+test.S: Assembler messages:
+test.S:15855: Error: illegal operands `and s7,ra,z4'
+test.S:25584: Error: illegal operands `andi s5,t1,s0'
+make: *** [Makefile:4: compile] Error 1
+
 
 ### Challenge 2
 1. https://gitlab.com/shaktiproject/tools/aapg
